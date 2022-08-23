@@ -1,0 +1,15 @@
+D:\git_test\C#\DZ_C#_7_praktikum\task_1\bin\Debug\net6.0\task_1.exe
+D:\git_test\C#\DZ_C#_7_praktikum\task_1\bin\Debug\net6.0\task_1.deps.json
+D:\git_test\C#\DZ_C#_7_praktikum\task_1\bin\Debug\net6.0\task_1.runtimeconfig.json
+D:\git_test\C#\DZ_C#_7_praktikum\task_1\bin\Debug\net6.0\task_1.dll
+D:\git_test\C#\DZ_C#_7_praktikum\task_1\bin\Debug\net6.0\task_1.pdb
+D:\git_test\C#\DZ_C#_7_praktikum\task_1\obj\Debug\net6.0\task_1.csproj.AssemblyReference.cache
+D:\git_test\C#\DZ_C#_7_praktikum\task_1\obj\Debug\net6.0\task_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\git_test\C#\DZ_C#_7_praktikum\task_1\obj\Debug\net6.0\task_1.AssemblyInfoInputs.cache
+D:\git_test\C#\DZ_C#_7_praktikum\task_1\obj\Debug\net6.0\task_1.AssemblyInfo.cs
+D:\git_test\C#\DZ_C#_7_praktikum\task_1\obj\Debug\net6.0\task_1.csproj.CoreCompileInputs.cache
+D:\git_test\C#\DZ_C#_7_praktikum\task_1\obj\Debug\net6.0\task_1.dll
+D:\git_test\C#\DZ_C#_7_praktikum\task_1\obj\Debug\net6.0\refint\task_1.dll
+D:\git_test\C#\DZ_C#_7_praktikum\task_1\obj\Debug\net6.0\task_1.pdb
+D:\git_test\C#\DZ_C#_7_praktikum\task_1\obj\Debug\net6.0\task_1.genruntimeconfig.cache
+D:\git_test\C#\DZ_C#_7_praktikum\task_1\obj\Debug\net6.0\ref\task_1.dll
